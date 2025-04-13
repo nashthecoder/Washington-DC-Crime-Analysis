@@ -9,6 +9,11 @@ Using Power BI, this project explores a comprehensive crime dataset to reveal pa
 
 [**Dataset Source → Onyx Data March 2025 Challenge**](https://github.com/nashthecoder/Washington-DC-Crime-Analysis/commit/17879ff058dd113fd5fae3dee32a8467621e060b#diff-a48e6540e759e88b07c8327a78582c65d47c6e1f78fe456ff1d2ea13f51fa9ff)
 
+🧹 **Data Cleaning Steps**  
+- Ensured columns are in the correct data type  
+- Filtered out null values  
+- Dropped unnecessary columns 
+
 📊 **Key Performance Indicators (KPIs)**  
 - **Total Crimes Reported** – Volume of crimes over the selected timeframe  
 - **Crimes by Time of Day** – Shift-based crime distribution (Midnight, Day, Evening)  
@@ -34,3 +39,11 @@ The analysis highlights the importance of:
 - Boosting **patrol presence during evening hours**  
 - **Community programs** to prevent property crimes  
 - **Smarter, data-informed** resource deployment  
+
+🙌 **Credits**  
+This project was completed as part of a group capstone initiative. Special thanks to all team members for their collaboration and contributions:
+
+- 👨‍💼 **George** – Group Leader  
+- 👩‍💻 Maureen  
+- 👩‍💻 Stella  
+- 👩‍💻 Naijeria  
