@@ -1,4 +1,4 @@
-<img width="911" alt="Screenshot 2025-04-13 at 20 03 42" src="https://github.com/user-attachments/assets/50a19110-6a7b-494a-b513-a8abeac5cb36" /># Washington-DC-Crime-Analysis
+# Washington-DC-Crime-Analysis
 A Power BI crime data analysis project for Washington, D.C., uncovering trends, hotspots, and severity to support data-driven decisions. Includes key KPIs like Crime Severity Index, Top 5 Crime Types, and Time of Day insights to guide targeted policing and community safety efforts.
 
 🧩 **Problem Statement**  
@@ -23,7 +23,7 @@ Using Power BI, this project explores a comprehensive crime dataset to reveal pa
 - **Hotspot Analysis** – Geographic crime concentration visualized  
 - **Weapon-Related Crimes** – Percentage involving firearms!
 [Uploading Screenshot 2025-04-13 at 20.03.42.png…]()
-
+<img width="250" alt="Screenshot 2025-04-13 at 20 03 42" src="https://github.com/user-attachments/assets/50a19110-6a7b-494a-b513-a8abeac5cb36" />
   
 - **Time to Resolution** – Time from occurrence to report filing  
 - **Trends Over Time** – Monthly and yearly crime trend tracking  
